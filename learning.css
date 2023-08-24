@@ -1,0 +1,172 @@
+body {
+    text-align: center ;
+    margin: 0;
+    background-color:rgba(235, 241, 241, 0.83);
+    font-family:'Merriweather', serif;
+    font-size: 10px;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+}
+
+h1 {
+    font-family: 'Sacramento' , cursive;
+    font-size: 90px;
+    color:rgba(7, 133, 91, 0.833);
+    margin: 50px auto 0 aut0;
+}
+
+p{
+    font-family: 'Merriweather', sans-serif;
+    font-size: 15px;
+    position: relative;
+    bottom: 60px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 60px;
+    bottom:60px ;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    bottom:320px ;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.profileimage {
+    position: relative;
+    bottom: 80px;
+}
+.profileh2{
+    color :rgb(73, 144, 120);
+    position: relative;
+    bottom: 60px;
+}
+.profilepr{
+    width: 40%;
+    margin: auto;
+}
+.whath2{
+    color: rgba(7, 133, 91, 0.833); 
+}
+.whatcart {
+    float: left;
+    margin-left: 180px;
+    position: relative;
+    left: 150px ;
+}
+.imagesmall1 {
+    float: left;
+    margin-top: 60px ;
+    margin-left:60px ;
+    position: relative;
+    left: 130px;
+}
+.whath3 {
+    position: relative;
+    top: 15px;
+    right: 100px;
+    color:rgb(73, 144, 120);
+}
+.whatpra {
+    position: relative;
+    top: 10px;
+    right: 25px;
+    left: 250px;
+    width: 45%;
+}
+
+.devcart {
+    position: relative;
+    left: 180px;
+    top: 30px;
+}
+.devh3 {
+    position: relative;
+    bottom: 100px;
+    right: 200px;
+    margin-top: 50px;
+    color: rgb(73, 144, 120);
+}
+.devepara {
+    position: relative;
+    right: 25px;
+    bottom: 100px;
+    left: 350px;
+    width: 20%;
+}
+
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+.contacth2 {
+    color: rgba(7, 133, 91, 0.833); ;
+    font-family: 'Merriweather', sans-serif; 
+    position: relative;
+    bottom: 20px;
+}
+.contacth3{
+    color: rgb(73, 144, 120);
+    position: relative;
+    top: 5px;
+    bottom: 40px;
+}
+.contactpara {
+    position: relative;
+    top: 10px;
+}
+
+.bnt {
+    font-family: 'Merriweather', sans-serif;
+    background-color: rgb(93, 190, 190);
+    position: relative;
+    bottom: 1px;
+    top: 10px;
+    padding: 10px 20px 10px 20px;
+    color: #fffffff0;
+}
+.bnt:hover {
+    background-color: #30e3cb;
+}
+
+.bottom-container {
+    background-color:#688e89;
+    padding: 40px 0;
+    line-height: 600%;
+}
+.contact{
+    position: relative;
+    top: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;  
+  border-color: rgb(238, 231, 231);
+  width: 10%;
+  height: 2px;
+}
+.hr1 {
+    position: relative;
+    top: 120px;
+    right: 220px;
+    width: 3%;
+}
+.hr2 {
+    position: relative;
+    bottom: 190px;
+    left: 85px;
+    width:3% ;
+}
